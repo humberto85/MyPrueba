@@ -1,0 +1,11 @@
+Script hecho en bash para conocer informacion basica del sistema etc.
+
+COMO EJECUTAR?
+
+1) ./inicio.sh
+2) bash inicio.sh
+3) sh inicio.sh
+
+Si es necesario da permisos de ejecucion
+
+sudo chmod +x u
